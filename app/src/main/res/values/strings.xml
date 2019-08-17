@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="invitation">Укажите данные для доставки</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="choose_country">Выберите страну</string>
+    <string name="choose_city">Выберите город</string>
+    <string name="choose_house">Выберите дом</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
